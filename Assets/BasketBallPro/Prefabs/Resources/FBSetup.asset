@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 385414825e5384e4c94859f59e75328b, type: 3}
+  m_Name: FBSetup
+  m_EditorClassIdentifier: 
+  shareDialogTitle: Amazing Example
+  shareDialogMsg: This is a Superb Awesome Game! Check this Out.
+  inviteDialogTitle: Amazing Example
+  inviteDialogMsg: This is a Superb Awesome Game! Check this Out.
+  fbShareURI: 
+  fbSharePicURI: 
